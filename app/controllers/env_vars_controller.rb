@@ -9,7 +9,7 @@ class EnvVarsController < ApplicationController
     end
 
     if Rails.env.production?
-      @env =    ENV["WEBSVC_URL_PROD"]
+      @env =  ENV["WEBSVC_URL_PROD"]
       @dev = ENV["PARTNERID_PROD"]
     end
     return @env
