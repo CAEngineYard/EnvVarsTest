@@ -1,0 +1,6 @@
+WEBSVC_URL_DEV: 'https://dev.careerbuilder.com'
+WEBSVC_URL_TEST: 'https://test.careerbuilder.com'
+WEBSVC_URL_PROD: 'https://prod.careerbuilder.com'
+PARTNERID_DEV: 'CB_DEV'
+PARTNERID_PROD: 'CB_PROD'
+
